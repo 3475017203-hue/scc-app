@@ -1,0 +1,6 @@
+# Swift and Xcode build output
+**/.build/
+**/.swiftpm/
+**/DerivedData/
+**/xcuserdata/
+.DS_Store
